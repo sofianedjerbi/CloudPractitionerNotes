@@ -42,5 +42,3 @@ Defined as **Docker Images** that will run on **EC2**.
 ## AWS Lightsail
 
 **A mini-AWS for beginners.**
-
-
