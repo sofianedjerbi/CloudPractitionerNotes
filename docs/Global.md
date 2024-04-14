@@ -21,7 +21,8 @@ Can take S3 or any custom origin as input.
 
 ## WAF: Web Application Firewall
 
-A web application firewall that helps protect web applications from **common web exploits** and bots, allowing users to control traffic access.
+A web application firewall that helps protect web applications from **common web exploits** and bots.  
+Allow users to control traffic access.
 
 ## Shield
 

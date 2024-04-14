@@ -1,6 +1,6 @@
 # Amazon Databases
 
-## AWS RDS
+## RDS
 
 Managed service to **create RDBs**: Postgres, MySQL, MariaDB...
 
@@ -8,7 +8,7 @@ Managed service to **create RDBs**: Postgres, MySQL, MariaDB...
 
 A **scalable & optimized RDB**. Serverless offer available.
 
-## AWS RDS Deployments
+## RDS Deployments
 
 - **Read Replicas:** Multi-endpoint read access but a single point for read access.
 - **Multi-AZ:** A failover database used only on main database failure.

@@ -52,7 +52,7 @@ Work across regions. Like `rsync`. Need versioning enabled.
 
 **Server side encryption is enabled by default**.
 
-## AWS Snow Family
+## Snow Family
 
 **Physical transport of data.**  
 Used for **edge-computing or for migrating a huge amount of data**.  
