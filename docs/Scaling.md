@@ -10,7 +10,7 @@
 
 ## ELB: NLB (Network Load Balancer)
 
-**NLB** is a load balancer designed for **TCP / UDL**.
+**NLB** is a load balancer designed for **TCP / UDP**.
 
 ## ELB: GLB (Gateway Load Balancer)
 
