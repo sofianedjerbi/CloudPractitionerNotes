@@ -19,15 +19,6 @@ It is a **managed DNS**. You can register domain names.
 Also provides **DDOS protection**.  
 Can take S3 or any custom origin as input.
 
-## WAF: Web Application Firewall
-
-A web application firewall that helps protect web applications from **common web exploits** and bots.  
-Allow users to control traffic access.
-
-## Shield
-
-A managed **Distributed Denial of Service (DDoS) protection**.
-
 ## S3 Transfer Acceleration
 
 Upload/Download files to/from **edge locations** that will interact with S3 for you.  

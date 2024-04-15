@@ -72,5 +72,5 @@ Will also allow access to on-premises servers if site-to-site VPN is setup.
 
 ## Transit Gateway
 
-A mediator around Direct Connect, Gateway, VPN Connections.
-Allow connection to 100s of VPC connections, on-premise infrastructure.
+**A mediator** around Direct Connect, Gateway, VPN Connections.
+Allow connection to **100s of VPC connections, on-premise infrastructure**.
