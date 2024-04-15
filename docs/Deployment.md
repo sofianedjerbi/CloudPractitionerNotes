@@ -49,7 +49,9 @@ An **online IDE**. Allow code collaboration.
 ## SSM: Systems Manager
 
 An agent to install on your on-premise VM.  
-Patch & Run commands across **an entire fleet of servers**. Designed for **hybrid cloud**.
+Patch & Run commands across **an entire fleet of servers** (EC2 & On-premises).  
+Give **insights about the infrastructure** since the agent is installed everywhere.  
+Designed for **hybrid cloud**.
 
 ## SSM: Session Manager
 

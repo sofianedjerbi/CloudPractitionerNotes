@@ -76,7 +76,8 @@ Notify you when certain services hit a threshold *(ex: lambda 900 concurrent exe
 
 ## Trusted Advisor
 
-General AWS suggestions. Business & Enterprise support plan for all checks.
+**General AWS suggestions.** Business & Enterprise support plan for all checks.
+There are cost optimization checks, performance, security, service limit checks...
 
 ## Support plans
 
