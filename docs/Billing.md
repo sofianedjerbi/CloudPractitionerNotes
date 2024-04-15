@@ -15,7 +15,7 @@ There is **a hierarchy**.
 
 ## AWS Control Tower
 
-**Setup and govern** a0 **multi-account environment**.  
+**Setup and govern** a **multi-account environment**.  
 It **automatically setup organizations and OUs.** *(deny regions...)*
 
 ## RAM: Resource Access Manager
