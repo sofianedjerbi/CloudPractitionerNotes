@@ -20,31 +20,38 @@
 
 ## 1/ Operational Excellence
 
-The ability to **run and monitor systems** to deliver business value and **continually improve**.  
+**Run and monitor systems** and **continually improve** (CI/CD).  
+Reduce manual interventions.
 *Infrastructure as code, good documentation, frequent, small, reversible changes, anticipate failure...*
+*(CloudForm, Config, CloudTrial, CloudWatch, X-Ray, CI/CD tools...)*
 
 ## 2/ Security
 
-**Protect information**, systems and assets. Migration strategies, **least privilege**.  
+**Protect information**, systems and assets. Migration strategies, **least privilege**, traceability.  
 *Encrypt in-transit data...*
+*(IAM, STS, MFA, Organizations, Config, CloudTrial, CloudWatch, Inspector, Shield, WAF, CloudFront, VPC...)*
 
 ## 3/ Reliability
 
 **Availability**, recover from failures, acquire resources, meet demand, mitigate disruptions.
+*(Scaling, Route53, Backups, CloudFormation, S3, CloudWatch, CloudTrial, Config, Service Quotas, Trusted Advisor)*
 
 ## 4/ Performance Efficiency
 
-**Democratize advanced technologies**, use computing resources efficiently.  
+**Democratize advanced technologies**, serverless architecture, **experimenting more often**.  
 *Be aware of options...*
+*(ASG, Lambda, EBS, S3, RDS, CloudFormation, News Blog, CloudWatch, Caches...)*
 
 ## 5/ Cost optimization
 
 Use **scalability to reduce unused resources**. Pay for only what you use.
+*(Cost Explorer, Cost & Usage Reports, Glacier, ASG, Lambda, Budgets, CloudWatch, EventBridge...)*
 
 ## 6/ Sustainability
 
 Minimizes the environmental impact of running cloud workloads.  
 **Use the right amount of computing resources.**
+*(ASG, CloudWatch, Lambda, Fargate, Spot Instances, Cold storage, Lifecycles, Read Replicas...)*
 
 ## Well-Architected Tool
 
