@@ -32,7 +32,8 @@ Allow copy through AZ / Regions.
 
 ## AMI: Amazon Machine Image
 
-A **customized EC2 instance**. Likely a Docker Image.
+A **customized EC2 instance**. Likely a Docker Image.  
+**They are built for a specific region.**
 
 ## EC2 Image Builder
 
