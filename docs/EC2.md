@@ -20,6 +20,12 @@ A security group is a firewall.
 
 **Online SSH access** to an instance.
 
+## EC2 Instance Store
+
+**Real hardware drives** attached to an instance for **IO performance**.  
+Risk of data loss if hardware fails.
+They **lose their storage if the instance is stopped**.
+
 ## EBS: Elastic Block Storage
 
 A "network" **USB key**. Should be in the same AZ.  
