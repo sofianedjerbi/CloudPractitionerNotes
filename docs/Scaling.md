@@ -26,11 +26,13 @@ Ensure we have a **min / max number** of instances running.
 **Terminate** not responding instances.  
 Should be used with a load balancer.
 
-## Manual Scaling
+## Scaling Polciies
+
+### Manual Scaling
 
 Update the size of an ASG manually. Usually a redflag.
 
-## Dynamic Scaling
+### Dynamic Scaling
 
 Respond to changing demand.  
 - **Step scaling:** **CloudWatch** alarm triggered (CPU > 70%) => Add or remove instances.
