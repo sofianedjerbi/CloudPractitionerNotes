@@ -26,7 +26,7 @@ Ensure we have a **min / max number** of instances running.
 **Terminate** not responding instances.  
 Should be used with a load balancer.
 
-## Scaling Polciies
+## Scaling Policies
 
 ### Manual Scaling
 
