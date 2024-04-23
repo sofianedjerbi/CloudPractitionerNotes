@@ -26,7 +26,7 @@ It will reduce **latency**.
 
 ## Global Accelerator
 
-Use **edge locations** as proxies. that will use the **private AWS network**.  
+Use **edge locations** as proxies that will use the **private AWS network**.  
 Reduce **Latency**. No caching.
 
 ## AWS Outposts
