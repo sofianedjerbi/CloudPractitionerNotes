@@ -36,7 +36,7 @@ It support **security**, **authentication**, API throttling, API **keys**, monit
 
 Fully managed **batch processing** at any scale.  
 Will dynamically launch **EC2 Instances**.  
-Defined as **Docker Images** that will run on **EC2**.  
+Defined as **Docker Images** that will run on **EC2** with **ECS**.  
 *(Difference with lambda: no time limit, managed by AWS)*
 
 ## AWS Lightsail
