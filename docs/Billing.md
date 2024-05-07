@@ -11,7 +11,8 @@ Pricing benefits from aggregated usage.
 
 **Whitelist/blacklist IAM actions**.  
 Nothing is allowed by default, *you should allow everything to the root account so the others will inherit.*  
-There is **a hierarchy**.
+There is **a hierarchy**.  
+SCPs does **not** applies to service-linked roles.
 
 ## AWS Control Tower
 
