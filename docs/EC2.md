@@ -52,6 +52,11 @@ Provides **pipelines for updating and testing images**, ensuring they meet compl
 **A shared NFS** that can be mounted to 100s of EC2 instances.  
 Only with Linux & Multi AZ.
 
+## EFS Infrequent Access (EFS-IA)
+
+**Storage class** that is cost optimized for files not accessed every day.
+You can make a Lifecycle policy. 
+
 ## FSx
 
 - **FSx for Lustre:** HPC on Linux. High-performance I/O.
